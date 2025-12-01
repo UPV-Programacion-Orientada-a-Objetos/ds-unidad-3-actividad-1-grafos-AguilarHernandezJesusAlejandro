@@ -1,0 +1,10 @@
+grafo_wrapper.*.pyd
+grafo_wrapper.*.so
+grafo_wrapper.cpp
+build/
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+*.o
+*.exe
